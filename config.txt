@@ -1,0 +1,9 @@
+{
+    "domain":"default",
+    "psw":"default",
+    "sport":1080,
+    "sbind":"0.0.0.0",
+    "wkip":"",
+    "byip":"",
+    "cfhs":["ipip.net",""]
+}
